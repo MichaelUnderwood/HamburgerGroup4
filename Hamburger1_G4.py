@@ -4,5 +4,3 @@
 # THIS IS THE MASTER - DO NOT DELETE WORK
 
 # test for committing on GitHub
-
-# Can you see me typing this?
