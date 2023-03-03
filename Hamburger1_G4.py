@@ -1,6 +1,8 @@
 # Authors: Michael Underwood, Michael Hutchings,
 # Lily Pettit, Elliot Pi, Noelle Burton, Preston Fitzgerald
 
+# "track exactly how many hamburgers each customer eats."
+
 import random
 from random import randint
 from collections import deque
